@@ -17,6 +17,6 @@ This section is useful for debugging web APIs
 - HTTP request body: 
 ```json
     {
-        data: [1,2,3,4]
+        "data": [1,2,3,4]
     }
 ```
